@@ -8,7 +8,7 @@ Download this example with:
 git clone https://github.com/reportportal/example-cucumber-junit-selenium-logback-maven.git
 ```
 
-1. Specify reportportal.properties file using properties from your RP profile page
+1. Fill up reportportal.properties file using properties from your RP profile page
 2. Navigate to the folder with `pom.xml`
 3. Call `mvn clean test`
 
