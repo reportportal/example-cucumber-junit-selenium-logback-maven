@@ -10,7 +10,7 @@ git clone https://github.com/reportportal/example-cucumber-junit-selenium-logbac
 
 1. Fill up reportportal.properties file using properties from your RP profile page
 2. Navigate to the folder with `pom.xml`
-3. Call `mvn clean test`
+3. Execute `mvn clean test` command in console
 
 Detailed documentation available here:
   - https://github.com/reportportal/agent-java-cucumber
