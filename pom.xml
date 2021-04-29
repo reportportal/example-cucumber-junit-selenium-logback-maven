@@ -13,17 +13,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-    <repositories>
-        <repository>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <id>bintray-epam-reportportal</id>
-            <name>bintray</name>
-            <url>http://dl.bintray.com/epam/reportportal</url>
-        </repository>
-    </repositories>
-
     <dependencies>
 
         <dependency>
